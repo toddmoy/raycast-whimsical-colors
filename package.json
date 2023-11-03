@@ -3,7 +3,7 @@
   "name": "whimsical-colors",
   "title": "Whimsical Colors",
   "description": "Retrieves the hex value for a named color.",
-  "icon": "command-icon.png",
+  "icon": "whimsical-logo.png",
   "author": "toddmoy",
   "license": "MIT",
   "commands": [
