@@ -9,8 +9,8 @@
   "commands": [
     {
       "name": "index",
-      "title": "Show List",
-      "description": "Template for showing a static list",
+      "title": "Show Colors",
+      "description": "A list of colors and their associated hex values.",
       "mode": "view"
     }
   ],
